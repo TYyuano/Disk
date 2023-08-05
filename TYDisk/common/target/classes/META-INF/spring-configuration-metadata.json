@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "swagger.config",
+      "type": "com.YuAN.config.knife4JConfig",
+      "sourceType": "com.YuAN.config.knife4JConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.config.base-package",
+      "type": "java.lang.String",
+      "sourceType": "com.YuAN.config.knife4JConfig"
+    }
+  ],
+  "hints": []
+}

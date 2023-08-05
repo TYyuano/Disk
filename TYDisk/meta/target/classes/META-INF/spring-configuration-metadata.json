@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "meta",
+      "type": "com.YuAN.config.MetaConfig",
+      "sourceType": "com.YuAN.config.MetaConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "meta.chunk-instance-count",
+      "type": "java.lang.Integer",
+      "sourceType": "com.YuAN.config.MetaConfig"
+    },
+    {
+      "name": "meta.chunk-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.YuAN.config.MetaConfig"
+    },
+    {
+      "name": "meta.use-https",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.YuAN.config.MetaConfig"
+    }
+  ],
+  "hints": []
+}
