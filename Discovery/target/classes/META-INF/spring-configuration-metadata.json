@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "discovery",
+      "type": "com.YuAN.config.DiscoveryConfig",
+      "sourceType": "com.YuAN.config.DiscoveryConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "discovery.schema",
+      "type": "java.lang.String",
+      "sourceType": "com.YuAN.config.DiscoveryConfig"
+    },
+    {
+      "name": "discovery.server-host",
+      "type": "java.lang.String",
+      "sourceType": "com.YuAN.config.DiscoveryConfig"
+    },
+    {
+      "name": "discovery.server-id",
+      "type": "java.lang.String",
+      "sourceType": "com.YuAN.config.DiscoveryConfig"
+    },
+    {
+      "name": "discovery.server-port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.YuAN.config.DiscoveryConfig"
+    }
+  ],
+  "hints": []
+}
