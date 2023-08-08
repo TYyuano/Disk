@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+discovery:
+  server-id: chunk-server
+  server-host: http://127.0.0.1
+  server-port: 9000
+  schema: http
+
+swagger:
+  config:
+    base-package: com.YuAN.controller
+
+chunk:
+  work-space: E:/MyDataArea/

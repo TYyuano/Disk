@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "chunk",
+      "type": "com.YuAN.config.ChunkConfig",
+      "sourceType": "com.YuAN.config.ChunkConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "chunk.workspace",
+      "type": "java.lang.String",
+      "sourceType": "com.YuAN.config.ChunkConfig"
+    }
+  ],
+  "hints": []
+}
