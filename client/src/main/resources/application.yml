@@ -1,0 +1,16 @@
+client:
+  meta-server-host: http://127.0.0.1
+  meta-server-port: 9000
+
+Swagger:
+  config:
+    base-package: com.YuAN.controller
+
+server:
+  port: 6010
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 1GB
+      max-request-size: 1GB

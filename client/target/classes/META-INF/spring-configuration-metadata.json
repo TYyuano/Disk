@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "client",
+      "type": "com.YuAN.config.ClientConfig",
+      "sourceType": "com.YuAN.config.ClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "client.meta-server-host",
+      "type": "java.lang.String",
+      "sourceType": "com.YuAN.config.ClientConfig"
+    },
+    {
+      "name": "client.meta-server-port",
+      "type": "java.lang.String",
+      "sourceType": "com.YuAN.config.ClientConfig"
+    }
+  ],
+  "hints": []
+}
